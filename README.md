@@ -1,7 +1,7 @@
 BigDataApps-Spring2016-LabAssignments
 The repository consists of all the Lab Assigments done by
 
-Contributor : Nihar Dudam
+Contributor : Sricharan Pamuru
 
 as part of the
 
